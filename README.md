@@ -1,0 +1,2 @@
+# genaiApplications
+Integrating Ollama llm
